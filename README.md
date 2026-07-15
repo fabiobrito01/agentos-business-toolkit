@@ -1,3 +1,5 @@
+![AgentOS Business Toolkit](assets/banner.svg)
+
 # AgentOS Business Toolkit
 
 Kit offline e portátil para pequenos negócios registrarem clientes e vendas em SQLite, sem mensalidade ou nuvem obrigatória.
